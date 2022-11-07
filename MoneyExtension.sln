@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension", "MoneyExte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension.Tests", "MoneyExtension.Tests\MoneyExtension.Tests.csproj", "{3922404C-95B5-4F15-821E-A5C99126964C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPackage", "TestPackage\TestPackage.csproj", "{82B09D95-CBDF-4C67-AE21-FAB8D9D8104D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3922404C-95B5-4F15-821E-A5C99126964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3922404C-95B5-4F15-821E-A5C99126964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3922404C-95B5-4F15-821E-A5C99126964C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B09D95-CBDF-4C67-AE21-FAB8D9D8104D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B09D95-CBDF-4C67-AE21-FAB8D9D8104D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B09D95-CBDF-4C67-AE21-FAB8D9D8104D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B09D95-CBDF-4C67-AE21-FAB8D9D8104D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
